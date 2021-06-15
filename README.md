@@ -1,6 +1,8 @@
 # appgini-otp-plugin
 This plugin will enable you activate two step verification using email OTP in your Appgini application. Once activated, all users who attempt to login to your application will be sent an OTP to their registered email for verification. This happens all the time a user logs in. To use this plugin you must use SMTP as your mail sending method.
 
+Want to see it in action? create an account and try login here: https://payherokenya.com/sps/portal
+
 # How to setup
 1. Download the appgini-otp zip file into your plugins folder in your appgini project.
 2. Extract the contents of the zip file and ensure it goes into the appgini-otp folder inside the plugins folder.
